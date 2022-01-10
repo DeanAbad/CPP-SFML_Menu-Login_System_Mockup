@@ -1,4 +1,4 @@
-# CPP_and_SFML_Menu_and_Login_System
+# CPP-SFML_Menu-Login_System_Mockup
 A simple menu and login app I made for midterm project with pure C++ and SFML in VSCode.<br><b>Source:</b> https://github.com/MumuNiMochii/CPP-SFML_Menu-Login_System_Mockup_Source
 
 ---
