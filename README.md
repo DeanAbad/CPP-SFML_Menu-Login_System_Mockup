@@ -1,5 +1,7 @@
 # CPP_and_SFML_Menu_and_Login_System
-A simple menu and login app I made for midterm project with pure C++ and SFML in VSCode.
+A simple menu and login app I made for midterm project with pure C++ and SFML in VSCode.<br><b>Source:</b> https://github.com/MumuNiMochii/CPP-SFML_Menu-Login_System_Mockup_Source
+
+---
 
 ### Info
 You can switch through menus, and use a username to login. For now, the password
@@ -34,7 +36,7 @@ It can be used by these steps:
     - [ ] Shaders (if possible without lag spike; fallback system)
 - [ ] Make elements responsive with change in window size
 
-### Prerequisites
+### Tools
 Stuff I used for building it:
 - Andrew **King**'s boilerplate of SFML to work on Visual Studio Code: https://github.com/andrew-r-king/sfml-vscode-boilerplate
 - Visual Studio Code
